@@ -1,2 +1,9 @@
 .idea
 node_modules
+# Build directories
+build/
+dist/
+public/build/
+
+# Test coverage
+coverage/
